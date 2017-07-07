@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is 8E46-5494
-
- Directory of D:\Myproject
-
-07/07/2017  12:21 PM    <DIR>          .
-07/07/2017  12:21 PM    <DIR>          ..
-07/07/2017  12:21 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  268,126,257,152 bytes free
+changes made in this file
